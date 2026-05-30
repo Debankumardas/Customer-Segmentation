@@ -1,3 +1,6 @@
+[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/Debankumardas/Customer-Segmentation/blob/main/Customer%20segment/Analysis_Model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Debankumardas/Customer-Segmentation/blob/main/Customer%20segment/Analysis_Model.ipynb)
+
 # Customer Intelligence System  
 ### (Segmentation + Churn Prediction + Recommendation)
 
